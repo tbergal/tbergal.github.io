@@ -1,0 +1,13 @@
+document.write("<h2> ");
+document.write("      <a href=\"index.html\">Home<\/a> ");
+document.write("      <a href=\"cs.html\">Computer Science<\/a>");
+document.write("      <a href=\"math.html\">Math<\/a>");
+document.write("      <div class=\"dropdown\">");
+document.write("        Other");
+document.write("        <div class=\"dropdown-content\">");
+document.write("          <a href=\"teaching.html\">Teaching<\/a>");
+document.write("          <a href=\"research.html\">Research<\/a>");
+document.write("        <\/div>");
+document.write("      <\/div>");
+document.write("    <\/h2>");
+document.write("    <hr>");
